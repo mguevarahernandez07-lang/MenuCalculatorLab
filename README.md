@@ -1,6 +1,6 @@
 # Lab: Menu-driven Calculator
 
-## Learning Outcomes
+## My Learning Outcomes
 By the end of this lab, I can:
 - Apply if/else and switch to implement menu options.
 - Validate input and reject errors.
