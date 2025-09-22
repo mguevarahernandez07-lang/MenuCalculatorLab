@@ -98,6 +98,7 @@ int main() {
     return 0;
 }
 
+---
 ## Reflection on Challenges
 
 When I started this lab, the hardest part was making sure the calculator did not crash when I typed something that was not a number. At first it kept breaking, but then I learned to clear the input and ignore the bad text so it would ask me again.
