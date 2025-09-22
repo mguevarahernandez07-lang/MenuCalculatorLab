@@ -10,6 +10,7 @@ I also had to use an enum class for the menu. At first it was confusing because 
 I liked using a switch statement because it looked cleaner than a lot of if/else statements. It made the program easier to read.
 
 Overall, the lab was a little tricky at first, but after fixing input and division problems, the calculator worked the way I wanted.
+
 ---
 
 ## Code (Calculator.cpp)
