@@ -9,6 +9,17 @@ By the end of this lab, I can:
 - Practice short-circuiting and scope control.
 - Create an interactive calculator.
 
+## Reflection on Challenges
+
+When I started this lab, the hardest part was making sure the calculator did not crash when I typed something that was not a number. At first it kept breaking, but then I learned to clear the input and ignore the bad text so it would ask me again.
+
+Another challenge was division. If the second number was zero, the calculator gave an error, so I had to add a special check to stop it. This taught me how to handle problems before they happen.
+
+I also had to use an enum class for the menu. At first it was confusing because I had to change the number choice into the enum type, but after I figured it out, it made the menu safer and easier to use.
+
+I liked using a switch statement because it looked cleaner than a lot of if/else statements. It made the program easier to read.
+
+Overall, the lab was a little tricky at first, but after fixing input and division problems, the calculator worked the way I wanted.
 ---
 
 ## Code (Calculator.cpp)
@@ -97,16 +108,3 @@ int main() {
     }
     return 0;
 }
-
----
-## Reflection on Challenges
-
-When I started this lab, the hardest part was making sure the calculator did not crash when I typed something that was not a number. At first it kept breaking, but then I learned to clear the input and ignore the bad text so it would ask me again.
-
-Another challenge was division. If the second number was zero, the calculator gave an error, so I had to add a special check to stop it. This taught me how to handle problems before they happen.
-
-I also had to use an enum class for the menu. At first it was confusing because I had to change the number choice into the enum type, but after I figured it out, it made the menu safer and easier to use.
-
-I liked using a switch statement because it looked cleaner than a lot of if/else statements. It made the program easier to read.
-
-Overall, the lab was a little tricky at first, but after fixing input and division problems, the calculator worked the way I wanted.
