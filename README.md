@@ -1,14 +1,4 @@
 # Lab: Menu-driven Calculator
-
-## My Learning Outcomes
-By the end of this lab, I can:
-- Apply if/else and switch to implement menu options.
-- Validate input and reject errors.
-- Detect and handle division by zero.
-- Use `enum class` for type-safe menu choices.
-- Practice short-circuiting and scope control.
-- Create an interactive calculator.
-
 ## Reflection on Challenges
 
 When I started this lab, the hardest part was making sure the calculator did not crash when I typed something that was not a number. At first it kept breaking, but then I learned to clear the input and ignore the bad text so it would ask me again.
@@ -108,3 +98,16 @@ int main() {
     }
     return 0;
 }
+
+## Paste video link here
+
+```
+Video link here
+```
+
+<br>
+<br>
+<br>
+<br>
+
+**End of exercise**
