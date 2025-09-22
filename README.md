@@ -105,10 +105,6 @@ int main() {
 ```
 Video link here
 ```
-
-<br>
-<br>
-<br>
-<br>
+(https://app.screencastify.com/watch/CIduiGTpIRwIpQzLcWyi)
 
 **End of exercise**
